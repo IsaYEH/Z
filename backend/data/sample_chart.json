@@ -1,0 +1,119 @@
+{
+  "id": "demo-1991-06-28-11-00-taipei",
+  "meta": {
+    "tz": "+08:00",
+    "calendar": "Lunar",
+    "trueSolar": "applied",
+    "ruleset": "wenmo-1.0",
+    "birth": {
+      "date": "1991-06-28",
+      "time": "11:00",
+      "place": "台北",
+      "lat": 25.033,
+      "lon": 121.565
+    }
+  },
+  "natal": {
+    "fiveElementBureau": "木三局",
+    "lifePalace": "午",
+    "bodyPalace": "寅",
+    "stars": {
+      "命宮": [
+        {
+          "name": "紫微",
+          "type": "major"
+        },
+        {
+          "name": "天相",
+          "type": "major"
+        }
+      ],
+      "兄弟宮": [
+        {
+          "name": "太陽",
+          "type": "major"
+        }
+      ],
+      "夫妻宮": [
+        {
+          "name": "天機",
+          "type": "major"
+        }
+      ],
+      "子女宮": [
+        {
+          "name": "武曲",
+          "type": "major"
+        }
+      ],
+      "財帛宮": [
+        {
+          "name": "天同",
+          "type": "major"
+        }
+      ],
+      "疾厄宮": [
+        {
+          "name": "廉貞",
+          "type": "major"
+        },
+        {
+          "name": "火星",
+          "type": "inauspicious"
+        }
+      ],
+      "遷移宮": [
+        {
+          "name": "巨門",
+          "type": "major"
+        }
+      ],
+      "交友宮": [
+        {
+          "name": "貪狼",
+          "type": "major"
+        }
+      ],
+      "官祿宮": [
+        {
+          "name": "天梁",
+          "type": "major"
+        }
+      ],
+      "田宅宮": [
+        {
+          "name": "天府",
+          "type": "major"
+        }
+      ],
+      "福德宮": [
+        {
+          "name": "七殺",
+          "type": "major"
+        }
+      ],
+      "父母宮": [
+        {
+          "name": "太陰",
+          "type": "major"
+        }
+      ]
+    }
+  },
+  "transits": {},
+  "aspects": {
+    "sanFangSiZheng": [
+      [
+        "命宮",
+        "官祿宮",
+        "財帛宮"
+      ]
+    ],
+    "sha": [
+      {
+        "name": "火星",
+        "palace": "疾厄宮"
+      }
+    ]
+  }
+}
